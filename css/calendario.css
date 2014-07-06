@@ -1,0 +1,26 @@
+#mes_title{
+	width: 232px;
+	height: auto;
+	margin: 5px;
+	background-color: #FFFFFF;
+	color: #000000;
+}
+#calendario-panel{
+	background-color: #BBBBAA;
+
+}
+
+
+#calendario{
+	background-color: #AEAEAE;
+	padding-bottom: 5px;
+}
+
+#item_calendario{
+	margin: 5px;
+	padding: 2px;
+}
+
+#vazio{
+	background-color: #BBBBAA;
+}
